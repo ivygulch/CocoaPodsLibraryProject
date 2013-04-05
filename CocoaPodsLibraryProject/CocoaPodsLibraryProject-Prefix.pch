@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CocoaPodsLibraryProject' target in the 'CocoaPodsLibraryProject' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
