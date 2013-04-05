@@ -54,6 +54,7 @@
 		F8370AE6170EB33B00C63165 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F8370AE8170EB33B00C63165 /* CocoaPodsLibraryProjectTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CocoaPodsLibraryProjectTests.h; sourceTree = "<group>"; };
 		F8370AE9170EB33B00C63165 /* CocoaPodsLibraryProjectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CocoaPodsLibraryProjectTests.m; sourceTree = "<group>"; };
+		F8370AF3170EB77000C63165 /* CocoaPodsLibraryProject.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CocoaPodsLibraryProject.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +83,7 @@
 		F8370ABF170EB33A00C63165 = {
 			isa = PBXGroup;
 			children = (
+				F8370AF3170EB77000C63165 /* CocoaPodsLibraryProject.podspec */,
 				F8370ACD170EB33A00C63165 /* CocoaPodsLibraryProject */,
 				F8370AE2170EB33B00C63165 /* CocoaPodsLibraryProjectTests */,
 				F8370ACA170EB33A00C63165 /* Frameworks */,
